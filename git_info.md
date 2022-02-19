@@ -41,4 +41,6 @@ git pull origin [branch_name]
 
 ```Bash
 git push
+# запушить в главную ветку
+git push origin
 ```
