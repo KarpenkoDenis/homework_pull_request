@@ -31,7 +31,7 @@ git clone https://github.com/....rep.git .
 git pull
 
 # получить актуальную версию удаленного репозиторий и слить с оригинальной веткой
-# зависит от названия оригинальной векти master или main
+# не зависит от названия оригинальной векти master или main
 git pull origin
 # получить и слить с конкретной веткой
 git pull origin [branch_name]
