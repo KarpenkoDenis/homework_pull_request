@@ -1,7 +1,7 @@
-git log –graph
+git log –-graph ---- *draw a text-based graphical representation of the commit history on the left hand side of the output..*
 
-git clone
+git clone ---- *clone a repository into a new directory.*
 
-git pull
+git pull ---- *fetch from and integrate with another repository or a local branch.*
 
-git push
+git push ---- *update remote refs along with associated objects.*
