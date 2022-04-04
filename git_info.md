@@ -12,3 +12,6 @@ git push
 
 git remote
 > Для привязки текущего репозитория с удаленным. Например: git remote add origin https://github.com/Evgeni138/homework_pull_request.git
+
+git push --set-upstream origin master
+> Для связки веток, когда текущий репозиторий хотим подключить к удаленному.
