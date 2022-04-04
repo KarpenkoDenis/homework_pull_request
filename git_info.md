@@ -9,3 +9,6 @@ git pull
 
 git push
 > Передача изменений в удаленный репозиторий.
+
+git remote
+> Для привязки текущего репозитория с удаленным. Например: git remote add origin https://github.com/Evgeni138/homework_pull_request.git
