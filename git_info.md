@@ -9,3 +9,5 @@ git pull
 
 git push
 Команда которая отправляет изменения в локальном репозитории в удаленный репозиторий
+
+![HomeTaskScreenshot](screenshot.jpeg)
