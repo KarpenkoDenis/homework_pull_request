@@ -1,7 +1,7 @@
-git log –graph
+> git log –graph - позволяет вывести последовательность коммитов в наглядном ввиде.
 
-git clone
+> git clone link - Позволяет скачать репозиторий с github.com в локальную папку
 
-git pull
+> git pull - скачивает коммиты из удалённого репозитория на github.com
 
-git push
+> git push - передаёт коммиты в удалённый репозиторий на github.com
