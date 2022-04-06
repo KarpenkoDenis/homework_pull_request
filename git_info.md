@@ -1,7 +1,8 @@
-git log –graph
+*git log –graph* - **нужен для того , чтобы визуализировать все ветки.**
 
-git clone
+*git clone* - **нужен для того чтобы ,перенести скопированный в GitHub репозиторий в VSC.**
 
-git pull
+*git pull* - **Cтянуть информацию с GitHub В VSC**
 
-git push
+*git push* - **Толкнуть или (направить) измененную информацию с VSC В GitHub**
+ 
