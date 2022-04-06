@@ -1,7 +1,11 @@
-git log –graph
+Опция --graph добавляет ASCII-граф, показывающий историю ветвлений и слияний. git log – вывод на экран истории всех коммитов с их хеш-кодами.
 
-git clone
+Чтобы посмотреть историю всех ветвлений и слияний используем:
+> git log –graph
 
-git pull
 
-git push
+> git clone
+
+> git pull
+
+> git push
