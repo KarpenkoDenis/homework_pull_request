@@ -7,3 +7,7 @@
 1.Сделали fork репозитория Дениса Карпенко : https://github.com/KarpenkoDenis/homework_pull_request 
 и получился наш удаленный репозиторий : 
  https://github.com/gushch75/homework_pull_request.git
+ Стали отслеживать текущий файл и сохранили изменения ( коммиты)
+ Выгрузили изменения на github (на свой аккаунт)
+ Появилась четвертая ветка victor 
+ Cделали pull request
