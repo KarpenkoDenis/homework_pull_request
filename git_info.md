@@ -1,4 +1,4 @@
-git log –graph
+git log –graph – дерево изменений ( коммитов) в графическом виде 
 
 git clone
 
