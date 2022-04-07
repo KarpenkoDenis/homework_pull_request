@@ -4,6 +4,8 @@ git log –graph
 
 git clone
 
+> Используется для скачивания удалённого репозитория на локальный ПК
+
 git pull
 
 git push
