@@ -19,7 +19,7 @@ git chekout master
 Для просмотра между зафиксированными изменениями и текущеми, можно использовать:
 git diff
 
-![some pic](pic.jpg)
+![some pic](ДЗ.jpg)
 
 
 
@@ -31,4 +31,4 @@ git pull
 
 git push
 
-git log
+git status
