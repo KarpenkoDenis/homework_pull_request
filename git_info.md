@@ -1,7 +1,8 @@
-git log –graph
+git log –graph показывает графичиски историю веток
 
-git clone
+git clone клонирует репизиторий 
 
-git pull
+git pull берет себе с удалённого сервера
 
-git push
+git push отдаёт на удалённый сервер 
+
