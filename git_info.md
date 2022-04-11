@@ -1,7 +1,7 @@
-git log –graph
+git log –graph - выводить дерева коммитов
 
-git clone
+git clone - копирование существующего проекта с другого сервера
 
-git pull
+git pull -скачивание данных с сервера
 
-git push
+git push -отправка данных на сервер
