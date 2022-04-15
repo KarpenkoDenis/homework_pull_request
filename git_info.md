@@ -26,3 +26,5 @@
 
 ## Создание коммита:
 >git commit -m "massage"
+
+![Git commands](Screen.png) 
