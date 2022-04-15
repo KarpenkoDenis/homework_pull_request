@@ -1,4 +1,7 @@
-git log –graph
+# Основные команды Git
+
+git log --graph
+
 
 git clone
 
