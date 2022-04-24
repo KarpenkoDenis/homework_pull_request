@@ -5,6 +5,8 @@ git log –graph
 
 git clone
 
-git pull
+Получение изменений и слияния с локальной версией:
+
+ git pull
 
 git push
