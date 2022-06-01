@@ -1,7 +1,8 @@
-git log –graph
+>git log –graph 
+- отображает графическое изображение созданных веток в репозитории
 
-git clone
+>git clone
 
-git pull
+>git pull
 
-git push
+>git push
