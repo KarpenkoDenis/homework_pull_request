@@ -1,4 +1,5 @@
-git log –graph
+# Для вывода на экран истории всех коммитов:
+> git log –graph
 
 git clone
 
